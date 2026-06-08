@@ -1,0 +1,54 @@
+{
+  "b797303409df2dd0b86f139e8b8db1fc28ba9ac33746057cb135e49f513c6c92": {
+    "file_id": "b797303409df2dd0b86f139e8b8db1fc28ba9ac33746057cb135e49f513c6c92",
+    "filename": "SE2042_LabSheet1_2025.pdf",
+    "size": 212761,
+    "timestamp": 1759510785.4652576,
+    "vector_clock": {
+      "web_client": 1
+    },
+    "checksum": "cdc46b1d4e171853cedd9ee4c984e34f494f75af4f6b154516ad911974d2abf0",
+    "replicas": [],
+    "created_by": "web_client",
+    "last_modified": 1759510785.4652576
+  },
+  "c7fe32450c591f33931c0e900191ff650df02ed3f230cbf39bbce2531d06a408": {
+    "file_id": "c7fe32450c591f33931c0e900191ff650df02ed3f230cbf39bbce2531d06a408",
+    "filename": "SE2042_LabSheet1_2025.pdf",
+    "size": 212761,
+    "timestamp": 1759513785.3540504,
+    "vector_clock": {
+      "web_client": 1
+    },
+    "checksum": "cdc46b1d4e171853cedd9ee4c984e34f494f75af4f6b154516ad911974d2abf0",
+    "replicas": [],
+    "created_by": "web_client",
+    "last_modified": 1759513785.3540504
+  },
+  "0442bfec65f44b7482948bc65d0011b0369019f32f7de9c029627de4723ca688": {
+    "file_id": "0442bfec65f44b7482948bc65d0011b0369019f32f7de9c029627de4723ca688",
+    "filename": "SE2042_LabSheet1_2025.pdf",
+    "size": 212761,
+    "timestamp": 1759560522.792048,
+    "vector_clock": {
+      "web_client": 1
+    },
+    "checksum": "cdc46b1d4e171853cedd9ee4c984e34f494f75af4f6b154516ad911974d2abf0",
+    "replicas": [],
+    "created_by": "web_client",
+    "last_modified": 1759560522.792048
+  },
+  "217a2260a113957bba67db607b214b066f024c08158876c398b8269245e2a307": {
+    "file_id": "217a2260a113957bba67db607b214b066f024c08158876c398b8269245e2a307",
+    "filename": "Screenshot (1).png",
+    "size": 3135302,
+    "timestamp": 1763645430.8516881,
+    "vector_clock": {
+      "web_client": 1
+    },
+    "checksum": "92a926f4fdd18ecf38a0cafcfc884ffec7087b6933aa11d49841971c5a8a4bd5",
+    "replicas": [],
+    "created_by": "web_client",
+    "last_modified": 1763645430.8516881
+  }
+}
